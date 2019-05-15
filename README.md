@@ -18,7 +18,7 @@
 
 # Create and deploy a basic Java Spring application
 
-> We have similar applications available for [Go](https://github.com/IBM/go-starter), [Java Liberty](https://github.com/IBM/java-liberty-starter), [Swift](https://github.com/IBM/swift-starter), [Python Flask](https://github.com/IBM/flask-starter), and [Node](https://github.com/IBM/nodejs-starter).
+> We have similar applications available for [Go](https://github.com/IBM/go-microservice), [Java Liberty](https://github.com/IBM/java-microservice), [Python Flask](https://github.com/IBM/flask-microservice), and [Node](https://github.com/IBM/nodejs-microservice).
 
 In this sample application, you will create a basic Java web application using Spring.  This provides a starting point for creating Java microservice applications running on [Spring](https://spring.io/). It contains no default application code, but comes with standard best practices, including a health check and application metric monitoring.
 
