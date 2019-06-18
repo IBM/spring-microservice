@@ -16,7 +16,7 @@
 </p>
 
 
-# Create and deploy a basic Java Spring application
+# Create and deploy a Java Spring microservice
 
 > We have similar applications available for [Go](https://github.com/IBM/go-microservice), [Java Liberty](https://github.com/IBM/java-liberty-microservice), [Python Flask](https://github.com/IBM/flask-microservice), and [Node](https://github.com/IBM/nodejs-microservice).
 
