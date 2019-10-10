@@ -9,10 +9,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 @RestController
+@RequestMapping("/v1")
 public class Example {
 
 
-    @RequestMapping("v1")
+    @RequestMapping("/")
     public @ResponseBody ResponseEntity<String> example() {
         List<String> list = new ArrayList<>();
         //return a simple list of strings
